@@ -2,7 +2,7 @@
 
 # Define file names
 NEW_FILE="jenkinsjobreports"
-OLD_FILE="jenkinsfile-old"
+OLD_FILE="jenkinsfile"
 
 # Check if the old file exists, and delete it if present
 if [ -f "$OLD_FILE" ]; then
